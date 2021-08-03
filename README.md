@@ -1,5 +1,9 @@
 # VRChat
 
+VConfの前身となるシステム
+
+リファクタリングしたものが[Vconf](https://github.com/kouichihirachi/Vconf)
+
 > VRChat System
 
 ## セットアップ
